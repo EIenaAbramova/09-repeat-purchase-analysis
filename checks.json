@@ -1,0 +1,13 @@
+{
+  "orders": 5009,
+  "customers": 793,
+  "repeat_orders": 4216,
+  "customers_with_repeat": 781,
+  "first_date": "2015-01-03",
+  "last_date": "2018-12-30",
+  "total_sales": 2297200.8603,
+  "average_repeat_days": 188.00189753320683,
+  "same_day_repeat_orders": 17,
+  "max_purchase_number": 17,
+  "source_xlsx_sha256": "ce1a4e067c72c378fa75ec8528cf959c4dc4d2b7ae06ed3307c2b84a4f5bfdba"
+}
